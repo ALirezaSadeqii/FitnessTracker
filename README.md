@@ -74,7 +74,7 @@ uvicorn main:app --reload
 ```
 - This starts the backend at http://127.0.0.1:8000
 
-**Step 2: (Optional) Seed the food table**  
+**Step 2: Seed the food table**  
 If you want to seed the food table with default foods, run:
 ```bash
 python main.py
